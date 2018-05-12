@@ -1,0 +1,49 @@
+_repo: British-Manufacturing-IndustriesPottery-Glass-and-Silicates-Furniture-and-Woodwork._38953
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Barff, Frederick Settle
+    birthdate: 1823
+    deathdate: 1886
+    gutenberg_agent_id: '39740'
+    url: http://www.gutenberg.org/2009/agents/39740
+  - agent_name: Arnoux, Léon
+    aliases:
+    - Arnoux, Leon
+    - Arnoux, L.
+    birthdate: 1816
+    deathdate: &id001 1902
+    gutenberg_agent_id: '39739'
+    url: http://www.gutenberg.org/2009/agents/39739
+  - agent_name: Pollen, John Hungerford
+    aliases:
+    - Pollen, J. Hungerford (John Hungerford)
+    - Pollen, J. H. (John Hungerford)
+    birthdate: 1820
+    deathdate: *id001
+    gutenberg_agent_id: '39741'
+    url: http://www.gutenberg.org/2009/agents/39741
+  editor:
+    agent_name: Bevan, G. Phillips
+    alias: Bevan, George Phillips
+    deathdate: 1889
+    gutenberg_agent_id: '39742'
+    url: http://www.gutenberg.org/2009/agents/39742
+description: ''
+gutenberg_issued: '2012-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Manufacturing industries -- Great Britain'
+title: 'British Manufacturing Industries: Pottery, Glass and Silicates, Furniture
+  and Woodwork.'
+url: http://www.gutenberg.org/ebooks/38953

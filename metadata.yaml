@@ -15,7 +15,7 @@ creator:
     - Arnoux, Leon
     - Arnoux, L.
     birthdate: 1816
-    deathdate: &id001 1902
+    deathdate: 1902
     gutenberg_agent_id: '39739'
     url: http://www.gutenberg.org/2009/agents/39739
   - agent_name: Pollen, John Hungerford
@@ -23,7 +23,7 @@ creator:
     - Pollen, J. Hungerford (John Hungerford)
     - Pollen, J. H. (John Hungerford)
     birthdate: 1820
-    deathdate: *id001
+    deathdate: 1902
     gutenberg_agent_id: '39741'
     url: http://www.gutenberg.org/2009/agents/39741
   editor:
@@ -33,6 +33,8 @@ creator:
     gutenberg_agent_id: '39742'
     url: http://www.gutenberg.org/2009/agents/39742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38953#British-Manufacturing-IndustriesPottery-Glass-and-Silicates-Furniture-and-Woodwork.
 gutenberg_issued: '2012-02-24'
 gutenberg_type: Text
 identifiers:
